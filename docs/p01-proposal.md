@@ -54,7 +54,7 @@ The dataset covers the total team salaries of sports teams from 4 different spor
 
 |                           | MLB | NFL | NHL | NBA |
 |:-------------------------:|:---:|:---:|:---:|:---:|
-| **Number of Rows***       | 32  | 35  | 33  | 37  |
+| **Number of Rows**        | 32  | 35  | 33  | 37  |
 | **Number of Columns**     | 18  | 27  | 18  | 27  |
 
 3. Each data file came from a single published data set, cited below, with the URL to the data set embedded here: https://doi.org/10.5281/zenodo.3256432
