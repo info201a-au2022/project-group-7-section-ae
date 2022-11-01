@@ -2,8 +2,8 @@
 
 ## Code Name: Goat 
 
-## Authors: C
-elina Yu celinayu@uw.edu; Rohan Sinha rohans24@uw.edu; Isaac Keen ikeen@uw.edu; Rusheel Chade rchande4@uw.edu 
+## Authors: 
+Celina Yu celinayu@uw.edu; Rohan Sinha rohans24@uw.edu; Isaac Keen ikeen@uw.edu; Rusheel Chade rchande4@uw.edu 
 
 ## Affiliation: 
 INFO-201: Technical Foundations of Informatics - The Information School - University of Washington 
@@ -55,10 +55,10 @@ The dataset covers the total team salaries of sports teams from 4 different spor
 2. Each data file came from a single published data set, cited below, with the URL to the data set embedded here: https://doi.org/10.5281/zenodo.3256432
 3. Bastos, André A., Salim, Matheus O., & Brandão, Wladmir C. (2019). SLD: Sports Leagues Dataset (1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.3256432
 4. 
-  a) The data was collected by Andre Bastos, Matheus Salim, and Wladmir Brandao in 2019 from Forbes, Spotrac, and Sports Reference. The data was collected       in order to make this data easily accessible and comparable on a large scale for sports fans or those wishing to conduct projects on the data. 
-  b) The data collection for the dataset by Bastos, Salim, and Brandao was likely not funded, but the original collectors of the data (Forbe, Spotrac, and              Sports Reference) are all for-profit companies, so by accessing their website users are giving them data and allowing them to gain ad revenue. The leagues            themselves, and their sponsors are most likely to benefit on a larger basis because people that discover and use this dataset may be compelled to start               watching these sports.
-  c) The data is validated because it was collected from three reliable sources that are largely followed by sports fans interested in sports statistics.
-  d)  We obtained this data from the dataset website zenodo, and we cited the source of the data above.
+* The data was collected by Andre Bastos, Matheus Salim, and Wladmir Brandao in 2019 from Forbes, Spotrac, and Sports Reference. The data was collected       in order to make this data easily accessible and comparable on a large scale for sports fans or those wishing to conduct projects on the data. 
+* The data collection for the dataset by Bastos, Salim, and Brandao was likely not funded, but the original collectors of the data (Forbe, Spotrac, and              Sports Reference) are all for-profit companies, so by accessing their website users are giving them data and allowing them to gain ad revenue. The leagues            themselves, and their sponsors are most likely to benefit on a larger basis because people that discover and use this dataset may be compelled to start               watching these sports.
+* The data is validated because it was collected from three reliable sources that are largely followed by sports fans interested in sports statistics.
+* We obtained this data from the dataset website zenodo, and we cited the source of the data above.
 
 ### Expected Implications:
 
