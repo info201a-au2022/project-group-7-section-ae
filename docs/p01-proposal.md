@@ -52,9 +52,14 @@ Harms of a low salary may include most of the opposite of a high salary such as 
 ### The Dataset:
 The dataset covers the total team salaries of sports teams from 4 different sports leagues in the United States: the MLB, NBA, NHL, and NFL. This data includes salary data from the years 2000 to 2017, and includes data on new and past teams in each of the leagues. Lastly, the data set includes the salary cap of the nba throughout the years which can serve as a baseline to compare the data. The data can be referenced to answer all of the research questions, as it can compare salaries between teams from the same sport as well as salaries between sports. However, it will be necessary to find data from outside sources such as that of the funding and popularity of each league and the comparable salaries of women’s sports. In terms of the project domain, we will investigate how the data will affect each of the direct and indirect stakeholders, and how the harms and benefits relate to leagues and teams with higher or lower salaries. 
 1. Table
-2. Each data file came from a single published data set, cited below, with the URL to the data set embedded here: https://doi.org/10.5281/zenodo.3256432
-3. Bastos, André A., Salim, Matheus O., & Brandão, Wladmir C. (2019). SLD: Sports Leagues Dataset (1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.3256432
-4. 
+|                           | MLB | NFL | NHL | NBA |
+|:-------------------------:|:---:|:---:|:---:|:---:|
+| **Number of Rows***       | 32  | 35  | 33  | 37  |
+| **Number of Columns**     | 18  | 27  | 18  | 27  |
+
+3. Each data file came from a single published data set, cited below, with the URL to the data set embedded here: https://doi.org/10.5281/zenodo.3256432
+4. Bastos, André A., Salim, Matheus O., & Brandão, Wladmir C. (2019). SLD: Sports Leagues Dataset (1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.3256432
+5. 
 * The data was collected by Andre Bastos, Matheus Salim, and Wladmir Brandão in 2019 from Forbes, Spotrac, and Sports Reference. The data was collected in order to make this data easily accessible and comparable on a large scale for sports fans or those wishing to conduct projects on the data.  
 * The data collection for the dataset by Bastos, Salim, and Brandão was likely not funded, but the original collectors of the data (Forbe, Spotrac, and Sports Reference) are all for-profit companies, so by accessing their website users are giving them data and allowing them to gain ad revenue. The leagues themselves and their sponsors are most likely to benefit on a larger basis because people that discover and use this dataset may be compelled to start watching these sports.
 * The data is validated because it was collected from three reliable sources that are largely followed by sports fans interested in sports statistics.
