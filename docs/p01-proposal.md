@@ -51,7 +51,7 @@ Harms of a low salary may include most of the opposite of a high salary such as 
 
 ### The Dataset:
 The dataset covers the total team salaries of sports teams from 4 different sports leagues in the United States: the MLB, NBA, NHL, and NFL. This data includes salary data from the years 2000 to 2017, and includes data on new and past teams in each of the leagues. Lastly, the data set includes the salary cap of the nba throughout the years which can serve as a baseline to compare the data. The data can be referenced to answer all of the research questions, as it can compare salaries between teams from the same sport as well as salaries between sports. However, it will be necessary to find data from outside sources such as that of the funding and popularity of each league and the comparable salaries of women’s sports. In terms of the project domain, we will investigate how the data will affect each of the direct and indirect stakeholders, and how the harms and benefits relate to leagues and teams with higher or lower salaries. 
-1. Table
+
 |                           | MLB | NFL | NHL | NBA |
 |:-------------------------:|:---:|:---:|:---:|:---:|
 | **Number of Rows***       | 32  | 35  | 33  | 37  |
