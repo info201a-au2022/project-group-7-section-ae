@@ -1,15 +1,17 @@
 # Sports Evaluation
-###: Goat 
-###Authors: 
-Celina Yu celinayu@uw.edu; Rohan Sinha rohans24@uw.edu; Isaac Keen ikeen@uw.edu; Rusheel Chade rchande4@uw.edu 
-###Affiliation: 
-INFO-201: Technical Foundations of Informatics - The Information School - University of Washington 
-###Date: 
-Autumn 2020
-###Abstract:
-Our main question is “How do salaries vary across different sporting leagues and is it ethical?” This question is important because we want to further understand as a group how athletes are being paid and what it is based on. To address the question, we will take data from across all sporting leagues in the US (NFL, NHL, MLB, NBA) and compare and contrast them with each other to make a statistical conclusion. 
-###Keywords 
-salaries; equality; sporting leagues
+
+###Code Name: Goat 
+
+###Authors: Celina Yu celinayu@uw.edu; Rohan Sinha rohans24@uw.edu; Isaac Keen ikeen@uw.edu; Rusheel Chade rchande4@uw.edu 
+
+###Affiliation: INFO-201: Technical Foundations of Informatics - The Information School - University of Washington 
+
+###Date: Autumn 2020
+
+###Abstract: Our main question is “How do salaries vary across different sporting leagues and is it ethical?” This question is important because we want to further understand as a group how athletes are being paid and what it is based on. To address the question, we will take data from across all sporting leagues in the US (NFL, NHL, MLB, NBA) and compare and contrast them with each other to make a statistical conclusion. 
+
+###Keywords: salaries; equality; sporting leagues
+
 ###Introduction 
 Our project is to analyze and compare statistics on how salaries vary between different sports leagues and determine whether it is equal or not. We are using a Sports League Dataset made by  Bastos, André A.; Salim, Matheus O. Brandão, Wladmir C.. This data set was created on June 25th 2019 and thus the sports data is from that year. Our main goal is to  pull data from each sporting league folder (NBA, NFL, MLB, NHL) specifically outlining salaries and then compare how they differ from each sport. We will be basing our final explanation off of how well the teams overall performance is and where the team is located to measure how its proximity to a major city will affect their salaries. We hope to come to a conclusion on whether the salaries given to players across the leagues are fair and equitable for all players in the sporting leagues.  
 ###Problem Domain
