@@ -25,17 +25,17 @@ Sources: https://thesportjournal.org/article/nba-players-pay-and-performance-wha
 https://work.chron.com/sport-highest-average-salary-10203.html 
 https://news.uoguelph.ca/2019/04/highly-paid-nba-players-often-get-more-court-time-than-deserved-u-of-g-study-reveals/ 
 
-TOPIC SUMMARY
+*TOPIC SUMMARY*
 
 Our topic is talking about the pay differences among individuals and different sport leagues such as the NBA, NFL, and MLB. The frame is to compare and analyze these differences to see how they affect individuals athletic performance, statistics, and rankings. The analysis will also include comparing the average salaries among leagues to see how that affects attendees at games and the quality of teams.
 
-STAKEHOLDERS
+*STAKEHOLDERS*
 
 The direct stakeholders in this project are the individual athletes as these are the people that get paid, in which that affects a number of variables such as performance, attendance, and motivation. Other direct stakeholders are the individual team executives. These are the people that give out salaries and paychecks, sign deals etc.
 
 The indirect stakeholders would be sport league executives, and sport event attendees. The league executives plan out events, organize teams, and create schedules for teams to follow. All these affect teams and individual athletes. Sport event attendees are indirect stakeholders because they are the ones that pay players salaries, they may bet on teams etc. Individual athletes and teams performance may affect sport event attendees' views on the teams and affect whether or not they would want to watch a game of the team in the future.
 
-HARMS AND BENEFITS OF SALARIES
+*HARMS AND BENEFITS OF SALARIES*
 
 Benefits of a high salary may include increased performance, better overall health due to better healthcare, better overall livelihood. All these factors and more will impact teams performance. 
 Harms of a low salary may include most of the opposite of a high salary such as lower health, lower performance, and worse livelihood.
